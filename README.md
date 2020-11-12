@@ -1,7 +1,7 @@
 # MagicBytesChanger
-Short python script which change the bytes that identify extrensions on files
+Short python script that changes the bytes that identify the files' extentions
 
-Don't use this for bad porposes
+Don't use this for bad purposes
 
 
 ## Running this file
